@@ -4,7 +4,7 @@
 
 **AarogyaVerse** is an **immersive WebVR platform** that brings **ancient Indian Ayurveda** to life using modern web technologies. Explore interactive 3D environments, learn about wellness practices, and experience a digital journey into holistic health.
 
-🌐 **Live Demo:** [Visit AarogyaVerse](https://arogyaverse.vercel.app)  
+🌐 **Live Demo:** [Visit AarogyaVerse](#)  
 📂 **Repository:** [GitHub](#)
 
 ---
